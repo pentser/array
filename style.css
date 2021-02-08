@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding: 200px;
+}
+form {
+    width: 400px;
+    margin: 10px auto;
+}
